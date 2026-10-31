@@ -1,0 +1,18 @@
+[
+    {
+        "name": "danish",
+        "age": "19",
+        "qualification": "BCA",
+        "email": "danish@gmail.com",
+        "password": "123456",
+        "date_time": "2026-10-26 13:08:29.661047"
+    },
+    {
+        "name": "bhuri",
+        "age": "19",
+        "qualification": "MCA",
+        "email": "bhuri@gmail.com",
+        "password": "123456",
+        "date_time": "2026-10-26 13:10:41.214097"
+    }
+]

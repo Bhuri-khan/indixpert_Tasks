@@ -1,0 +1,10 @@
+num1 = int(input("please enter the 1st number: "))
+num2 = int(input("please enter the 2nd number: "))
+
+print("sam",num1+num2)
+print("subtract",num1-num2)
+print("multiply",num1*num2)
+print("divide",num1/num2)
+print("remainder",num1%num2)
+print("floordivision",num1//num2)
+print("power",num1**num2)
